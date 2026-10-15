@@ -2,7 +2,7 @@
 
 Exploratory data analysis and an interactive dashboard of 9,551 Zomato restaurants, built with Python and a Power BI-style HTML dashboard.
 
-![Zomato Restaurant Analytics Dashboard](images/dashboard.png)
+![Zomato Restaurant Analytics Dashboard](zomato-restaurant-analysis-dashboard.png)
 
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab, data visualisation power BI dashboard
