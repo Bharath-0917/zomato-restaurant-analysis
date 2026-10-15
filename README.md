@@ -24,11 +24,11 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab, data visualisation pow
 - Restaurants with more votes tend to have higher ratings
 
 ## Charts
-![Restaurants per country](images/restaurants_per_country.png)
-![Rating distribution](images/rating_distribution.png)
-![Votes vs rating](images/votes_vs_rating.png)
-![Average rating by price range](images/rating_by_price_range.png)
-![Top cuisines in India](images/top_cuisines_india.png)
+![Restaurants per country](images/2.png)
+![Rating distribution](images/3.png)
+![Votes vs rating](images/7.png)
+![Average rating by price range](images/6.png)
+![Top cuisines in India](images/5.png)
 
 ## Project Files
 - `zomato_analysis.ipynb`: data cleaning and analysis notebook
